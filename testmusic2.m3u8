@@ -1,0 +1,17 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:363
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-PLAYLIST-TYPE:VOD
+#EXTINF:342.000,03. AOV
+https://github.com/Damienlee69/ark-playlists/releases/download/testmusic2/t_c7d76abfd1.ts
+#EXT-X-DISCONTINUITY
+#EXTINF:250.000,AWOLNATION - 01 - Run
+https://github.com/Damienlee69/ark-playlists/releases/download/testmusic2/t_6dab165464.ts
+#EXT-X-DISCONTINUITY
+#EXTINF:259.000,Mindless Self Indulgence - Kick (Remix)
+https://github.com/Damienlee69/ark-playlists/releases/download/testmusic2/t_2fe9268124.ts
+#EXT-X-DISCONTINUITY
+#EXTINF:363.000,Monster Magnet - 03 - Space Lord
+https://github.com/Damienlee69/ark-playlists/releases/download/testmusic2/t_9d31f3be5c.ts
+#EXT-X-ENDLIST
