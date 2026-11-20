@@ -3,6 +3,9 @@
 #EXT-X-TARGETDURATION:343
 #EXT-X-MEDIA-SEQUENCE:0
 #EXT-X-PLAYLIST-TYPE:VOD
+#EXTINF:343.000,prodbreathe
+https://github.com/Damienlee69/ark-playlists/releases/download/testmusic/t_85a942026c.ts
+#EXT-X-DISCONTINUITY
 #EXTINF:211.000,grandson - 02 - In Over My Head
 https://github.com/Damienlee69/ark-playlists/releases/download/testmusic/t_2f1f791218.ts
 #EXT-X-DISCONTINUITY
@@ -20,9 +23,6 @@ https://github.com/Damienlee69/ark-playlists/releases/download/testmusic/t_be210
 #EXT-X-DISCONTINUITY
 #EXTINF:226.000,Limpopus
 https://github.com/Damienlee69/ark-playlists/releases/download/testmusic/t_686cecf813.ts
-#EXT-X-DISCONTINUITY
-#EXTINF:343.000,prodbreathe
-https://github.com/Damienlee69/ark-playlists/releases/download/testmusic/t_85a942026c.ts
 #EXT-X-DISCONTINUITY
 #EXTINF:201.000,watsky
 https://github.com/Damienlee69/ark-playlists/releases/download/testmusic/t_ae55078854.ts
