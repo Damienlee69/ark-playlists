@@ -2,7 +2,7 @@
  "tracks": [
   {
    "fp": "2f1f7912189ec3ec",
-   "title": "grandson - 02 - In Over My Head",
+   "title": "grandson - In Over My Head",
    "asset": "t_2f1f791218.ts",
    "duration": 207.0,
    "video": false,
@@ -10,7 +10,7 @@
   },
   {
    "fp": "8e425539fcba732c",
-   "title": "korn",
+   "title": "koRn - Got the Life",
    "asset": "t_8e425539fc.ts",
    "duration": 237.0,
    "video": false,
@@ -18,7 +18,7 @@
   },
   {
    "fp": "cc89547635dccdbc",
-   "title": "Limpopus",
+   "title": "Limp Bizkit - Rollin",
    "asset": "t_cc89547635.ts",
    "duration": 222.0,
    "video": false,
@@ -26,7 +26,7 @@
   },
   {
    "fp": "85a942026c371f6f",
-   "title": "prodbreathe",
+   "title": "The Prodigy - Breathe",
    "asset": "t_85a942026c.ts",
    "duration": 346.0,
    "video": false,
@@ -34,7 +34,7 @@
   },
   {
    "fp": "ae550788541b1360",
-   "title": "watsky",
+   "title": "Watsky - Mean Ass Drunk",
    "asset": "t_ae55078854.ts",
    "duration": 200.0,
    "video": false,
@@ -44,35 +44,35 @@
  "singles": [
   {
    "fp": "2f1f7912189ec3ec",
-   "title": "grandson - 02 - In Over My Head",
+   "title": "grandson - In Over My Head",
    "asset": "grandson-02-In-Over-My-Head.mp3",
    "src": "grandson - 02 - In Over My Head"
   },
   {
    "fp": "8e425539fcba732c",
-   "title": "korn",
+   "title": "koRn - Got the Life",
    "asset": "korn.mp3",
    "src": "korn"
   },
   {
    "fp": "cc89547635dccdbc",
-   "title": "Limpopus",
+   "title": "Limp Bizkit - Rollin",
    "asset": "Limpopus.mp3",
    "src": "Limpopus"
   },
   {
    "fp": "85a942026c371f6f",
-   "title": "prodbreathe",
+   "title": "The Prodigy - Breathe",
    "asset": "prodbreathe.mp3",
    "src": "prodbreathe"
   },
   {
    "fp": "ae550788541b1360",
-   "title": "watsky",
+   "title": "Watsky - Mean Ass Drunk",
    "asset": "watsky.mp3",
    "src": "watsky"
   }
  ],
- "updated": "2026-11-20T20:10:14Z",
+ "updated": "2026-11-20T20:13:56Z",
  "by": "Playlystro 1.4.0"
 }
