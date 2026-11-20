@@ -2,7 +2,7 @@
  "tracks": [
   {
    "fp": "48bb68158b49359f",
-   "title": "11. Custer",
+   "title": "Slipknot - Custer",
    "asset": "t_48bb68158b.ts",
    "duration": 262.0,
    "video": false,
@@ -18,7 +18,7 @@
   },
   {
    "fp": "ab6bed49418ac636",
-   "title": "grandson - 02 - Oh No!!!",
+   "title": "grandson - Oh No!!!",
    "asset": "t_ab6bed4941.ts",
    "duration": 224.0,
    "video": false,
@@ -26,7 +26,7 @@
   },
   {
    "fp": "5ecf10fb8ec3276f",
-   "title": "The Cardigans - 08 - My Favourite Game",
+   "title": "The Cardigans - My Favourite Game",
    "asset": "t_5ecf10fb8e.ts",
    "duration": 231.0,
    "video": false,
@@ -36,7 +36,7 @@
  "singles": [
   {
    "fp": "48bb68158b49359f",
-   "title": "11. Custer",
+   "title": "Slipknot - Custer",
    "asset": "11-Custer.mp3",
    "src": "11. Custer"
   },
@@ -48,17 +48,17 @@
   },
   {
    "fp": "ab6bed49418ac636",
-   "title": "grandson - 02 - Oh No!!!",
+   "title": "grandson - Oh No!!!",
    "asset": "grandson-02-Oh-No.mp3",
    "src": "grandson - 02 - Oh No!!!"
   },
   {
    "fp": "5ecf10fb8ec3276f",
-   "title": "The Cardigans - 08 - My Favourite Game",
+   "title": "The Cardigans - My Favourite Game",
    "asset": "The-Cardigans-08-My-Favourite-Game.mp3",
    "src": "The Cardigans - 08 - My Favourite Game"
   }
  ],
- "updated": "2026-11-20T21:16:34Z",
+ "updated": "2026-11-20T21:17:12Z",
  "by": "Playlystro 1.4.0"
 }
