@@ -3,15 +3,15 @@
 #EXT-X-TARGETDURATION:262
 #EXT-X-MEDIA-SEQUENCE:0
 #EXT-X-PLAYLIST-TYPE:VOD
-#EXTINF:262.000,11. Custer
+#EXTINF:262.000,Slipknot - Custer
 https://github.com/Damienlee69/ark-playlists/releases/download/thisisarkmusic/t_48bb68158b.ts
 #EXT-X-DISCONTINUITY
 #EXTINF:177.000,Escape The Fate - 10 Miles Wide
 https://github.com/Damienlee69/ark-playlists/releases/download/thisisarkmusic/t_419598e533.ts
 #EXT-X-DISCONTINUITY
-#EXTINF:224.000,grandson - 02 - Oh No!!!
+#EXTINF:224.000,grandson - Oh No!!!
 https://github.com/Damienlee69/ark-playlists/releases/download/thisisarkmusic/t_ab6bed4941.ts
 #EXT-X-DISCONTINUITY
-#EXTINF:231.000,The Cardigans - 08 - My Favourite Game
+#EXTINF:231.000,The Cardigans - My Favourite Game
 https://github.com/Damienlee69/ark-playlists/releases/download/thisisarkmusic/t_5ecf10fb8e.ts
 #EXT-X-ENDLIST
