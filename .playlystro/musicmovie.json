@@ -1,0 +1,39 @@
+{
+ "tracks": [
+  {
+   "fp": "26c607e1f1c0dc85",
+   "title": "A_clip_as_is",
+   "asset": "t_26c607e1f1.ts",
+   "duration": 121.79,
+   "video": true,
+   "src": "A_clip_as_is"
+  },
+  {
+   "fp": "bc5d87859b52ee0c",
+   "title": "mckh",
+   "asset": "t_bc5d87859b.ts",
+   "duration": 296.0,
+   "video": false,
+   "src": "mckh"
+  }
+ ],
+ "singles": [
+  {
+   "fp": "26c607e1f1c0dc85",
+   "title": "A_clip_as_is",
+   "asset": "t_26c607e1f1.ts",
+   "src": "A_clip_as_is",
+   "video": true,
+   "page": "musicmovie/videos/A-clip-as-is.m3u8",
+   "duration": 121.79
+  },
+  {
+   "fp": "bc5d87859b52ee0c",
+   "title": "mckh",
+   "asset": "mckh.mp3",
+   "src": "mckh"
+  }
+ ],
+ "updated": "2026-11-21T21:28:55Z",
+ "by": "Playlystro 1.4.0"
+}
