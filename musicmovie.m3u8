@@ -1,0 +1,11 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:296
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-PLAYLIST-TYPE:VOD
+#EXTINF:121.790,A_clip_as_is
+https://github.com/Damienlee69/ark-playlists/releases/download/musicmovie/t_26c607e1f1.ts
+#EXT-X-DISCONTINUITY
+#EXTINF:296.000,mckh
+https://github.com/Damienlee69/ark-playlists/releases/download/musicmovie/t_bc5d87859b.ts
+#EXT-X-ENDLIST
